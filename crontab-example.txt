@@ -1,0 +1,3 @@
+* * * * * /home/USERNAME/checknginx.sh >> /home/USERNAME/logs/checknginx.log 2>&1
+* * * * * /home/USERNAME/checkapp.sh >> /home/USERNAME/logs/checkapp.log 2>&1
+* * * * * /home/USERNAME/checkrdb.sh >> /home/USERNAME/logs/checkrdb.log 2>&1
